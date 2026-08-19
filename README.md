@@ -11,7 +11,7 @@
 <!-- Profile shields -->
 ![Profile Views](https://komarev.com/ghpvc/?username=JayChavhan18&color=58a6ff&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/JayChavhan18/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-300%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/JayChavhan18/)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat-square&logo=checkmarx&logoColor=white)
 
@@ -26,7 +26,7 @@ public class JayChavhan extends Developer {
 
     String name        = "Jay Chavhan";
     String role        = "Java Full Stack Developer";
-    String education   = "B.E. CSE — Final Year";
+    String education   = "B.Tech. CSE";
     String location    = "India 🇮🇳";
 
     String[] currentFocus = {
@@ -144,7 +144,7 @@ Full stack applications built with a Java backend (Spring Boot / Servlets) conne
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] 🏗️ Build and deploy 3+ full stack projects publicly
 - [ ] ☁️ Learn Docker, Kubernetes & Cloud basics (AWS/GCP)
