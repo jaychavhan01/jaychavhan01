@@ -101,13 +101,14 @@ public class JayChavhan extends Developer {
 ---
 
 ## 🔥 Featured Projects
+### 🌱 IoT Based Smart Irrigation System
 
-### 🍔 Virtual Food Ordering System
-> **Hands-free ordering powered by computer vision and voice recognition**
+> **Automated plant watering powered by ESP32, soil moisture sensing, and Blynk IoT**
 
-A gesture and voice-controlled food ordering system built with Python. Uses MediaPipe for hand tracking and OpenCV for real-time computer vision, allowing users to browse and order food completely hands-free.
+An IoT-based smart irrigation system built with ESP32 that automatically monitors soil moisture and controls a water pump based on the moisture level. The system uses a soil moisture sensor and relay module for automated irrigation, with Blynk IoT enabling remote monitoring and control.
 
-**Tech:** `Python` `OpenCV` `MediaPipe` `Speech Recognition`
+**Tech:** `ESP32` `Blynk IoT` `Embedded C/C++` `Soil Moisture Sensor` `Relay Module`
+
 
 ---
 
@@ -137,8 +138,8 @@ Full stack applications built with a Java backend (Spring Boot / Servlets) conne
 
 </div>
 
-- 🧠 **200+** DSA problems solved and counting
-- 📚 Strong foundation in **OOPs, DBMS, OS, and Networking**
+- 🧠 **300+** DSA problems solved and counting
+- 📚 Strong foundation in **Java, OOPs, DBMS, OS, and Networking**
 - 🏋️ Daily practice on arrays, strings, trees, graphs, and DP
 
 ---
